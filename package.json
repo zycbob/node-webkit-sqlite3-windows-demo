@@ -1,0 +1,17 @@
+{
+  "name": "node-webkit-sqlite3-windows-demo",
+  "main": "http://localhost:8888/",
+  "node-main": "index.js",
+  "window": {
+    "icon": "",
+    "toolbar": true,
+    "width": 1024,
+    "height": "100%",
+    "position": "center",
+    "fullscreen": false,
+    "frame": true,
+    "min_width": 900,
+    "min_height": 600
+  },
+  "nodejs": true
+}
